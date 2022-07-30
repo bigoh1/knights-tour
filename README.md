@@ -1,6 +1,5 @@
 Knight's tour
 =============
+![Wiki preview](preview.gif)
 
-Just simple recursion problem.
-
-Note: learning Rust and loving it ❤️!
+![Preview](preview.png)
